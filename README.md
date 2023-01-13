@@ -7,6 +7,6 @@ OpenObedLoader C# edition (Shitcode)
 - Open Program.cs file for example using
 
 ### Need help?
-Join or [Telegram](https://t.me/obedload)
+Join our [Telegram](https://t.me/obedload)
 
 # Have fun!
