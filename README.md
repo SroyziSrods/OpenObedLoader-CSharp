@@ -6,4 +6,7 @@ OpenObedLoader C# edition (Shitcode)
 - Open project's .sln file in Visual Studio
 - Open Program.cs file for example using
 
+### Need help?
+Join or [Telegram](https://t.me/obedload)
+
 # Have fun!
