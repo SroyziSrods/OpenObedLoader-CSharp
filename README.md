@@ -2,7 +2,7 @@
 OpenObedLoader C# edition (Shitcode)
 
 ### How to use? 
-- Download repository
+- Download latest release from [Releases](https://github.com/SroyziSrods/OpenObedLoader-CSharp/releases) page
 - Open project's .sln file in Visual Studio
 - Open Program.cs file for example using
 
