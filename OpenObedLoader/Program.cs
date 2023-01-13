@@ -14,7 +14,8 @@ namespace OpenObedLoader
         {
             Console.WriteLine("Hi!");
             // example using
-            VKServer.DownloadSticker(4272, Path: @"C:\Users\User\Desktop\test"); // downloading "glasses with mustache" sticker from URL: vk.com/sticker/1-4272-512
+            VKServer.DownloadSticker(4272, 512, @"C:\Users\User\Desktop\test"); // 1st arg = Sticker Image ID, 2nd arg = Size (max value is 512 ig), 3rd arg = path to save on disk
+            VKServer.DownloadGift(1, 512, @"C:\Users\User\Desktop\test"); //  // 1st arg = Gift Image ID, 2nd arg = Size (max value is 512 ig), 3rd arg = path to save on disk
         }
     }
 }
